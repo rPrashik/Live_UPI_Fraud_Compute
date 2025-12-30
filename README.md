@@ -7,7 +7,7 @@ In the fast-evolving landscape of digital payments, UPI fraud has become a signi
 
 2. Unified Analytics Platform (Databricks)
 •	Role: The core computational environment for Data Engineering and Data Science.
-•	Knowledge Applied: Leveraged Databricks for collaborative development and seamless integration between Spark SQL and Python environments.
+•	Knowledge Applied: Leveraged Databricks for collaborative development and seamless integration between Spark SQL and Python environments. 
 
 3. Distributed Computing (PySpark & Structured Streaming)
 •	Role: High-speed ingestion and processing engine.
