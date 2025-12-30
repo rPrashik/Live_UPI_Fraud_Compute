@@ -18,11 +18,6 @@ o	Utilized Spark’s distributed architecture to aggregate and transform million
 •	Role: Optimized querying engine for complex analytical tasks.
 •	Knowledge Applied: Created SQL views to calculate real-time fraud ratios and identify geographic "Hotspots" (States with high fraud-to-transaction ratios).
 
-5. Machine Learning (Scikit-Learn & Random Forest)
-•	Role: Predictive intelligence layer.
-•	Knowledge Applied: * Target Encoding (Risk Mapping): Instead of standard Label Encoding, I mapped states to their actual fraud probability. This provides the model with intuitive geographic risk context.
-o	Probabilistic Classification: The model outputs a risk score (0-1), allowing the bank to move beyond binary "Yes/No" logic to nuanced "Risk-Based Authentication."
-
 📊 Core Features & Insights
 •	Real-Time Risk Heatmaps: Interactive visualizations showing which Indian states are currently under the highest threat.
 •	Temporal Danger Zones: Analysis of transaction timestamps to identify specific "High-Alert" hours (e.g., late-night spikes).
